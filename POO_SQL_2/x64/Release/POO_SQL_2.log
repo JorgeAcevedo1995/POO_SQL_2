@@ -1,0 +1,5 @@
+﻿  POO_SQL_2.cpp
+C:\Users\jorge\Desktop\GIT\POO y SQL - 2\POO_SQL_2\POO_SQL_2\Marcas.h(57,13): error C2374: 'insert': nueva definición; inicialización múltiple
+C:\Users\jorge\Desktop\GIT\POO y SQL - 2\POO_SQL_2\POO_SQL_2\Marcas.h(56): message : vea la declaración de 'insert'
+C:\Users\jorge\Desktop\GIT\POO y SQL - 2\POO_SQL_2\POO_SQL_2\Marcas.h(80,13): error C2374: 'consulta': nueva definición; inicialización múltiple
+C:\Users\jorge\Desktop\GIT\POO y SQL - 2\POO_SQL_2\POO_SQL_2\Marcas.h(79): message : vea la declaración de 'consulta'
